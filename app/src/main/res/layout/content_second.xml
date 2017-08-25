@@ -13,7 +13,7 @@
         android:layout_width="209dp"
         android:layout_height="57dp"
         android:text="Hello Kotlin"
-        android:textSize="40dp"
+        android:textSize="40sp"
         android:layout_marginLeft="8dp"
         app:layout_constraintLeft_toLeftOf="parent"
         android:layout_marginRight="8dp"
